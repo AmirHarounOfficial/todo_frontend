@@ -60,9 +60,6 @@ const LoginForm = () => {
               {isLoading ? 'Logging in...' : 'Login'}
             </Button>
           </form>
-          <div className="mt-4 text-center text-sm text-gray-600">
-            Demo credentials: john_doe / password123
-          </div>
         </CardContent>
       </Card>
     </div>
